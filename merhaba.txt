@@ -3,4 +3,4 @@ merhaba suleyman orhan
 
 US-1245
 
-US-1245: Fixing some bugs
+US-1245: Fixing some 12
